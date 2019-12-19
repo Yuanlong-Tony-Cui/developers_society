@@ -1,5 +1,5 @@
 {
-  "name": "developers-society",
+  "name": "developers_society",
   "version": "1.0.0",
   "description": "Social network for developers",
   "main": "server.js",
